@@ -1,0 +1,50 @@
+#assign_header {
+	background-color: grey;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 18px;
+}
+#Headline{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+	align-content: center;
+	font-family: Dinish ;
+
+}
+#news_header {
+	color: blue;
+	font-family: Dinish ;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+	align-content: center;
+}
+#story-copy {
+	font-family: Dinish;
+}
+.caption {
+	font-family: Dinish ;
+	size: 14px;
+	color: grey;
+
+}
+.endmark{
+	font-family: Dinish;
+	color: grey;
+	font-size: 16px;
+}
+.body{
+	font-family: Dinish;
+	font-size: 20px;
+	
+
+}
+.name{
+	font-family: Dinish;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+	align-content: center;
+}
